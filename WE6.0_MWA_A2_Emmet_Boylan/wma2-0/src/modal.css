@@ -1,0 +1,33 @@
+/*
+
+Assignment: BSc Mobile Web Applications, Digital Skills Academy
+Student ID: WE60-1022
+File created: 2018/06/08
+Reference Sources: na
+
+@author: Emmet Boylan
+@version: v1.0
+-
+Changelog:
+(if any)
+A css file corresponding to Modal.js. Styling does npt match inline styling from example
+Not currently active.
+*/
+.backdrop {
+      position: fixed;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background-color: rgba(0,0,0,0.3);
+      padding: 50;
+}
+
+.modal {
+      background-color: #fff;
+      border-radius: 5;
+      max-width: 500;
+      min-height: 300;
+      margin: 0 auto;
+      padding: 30;
+}

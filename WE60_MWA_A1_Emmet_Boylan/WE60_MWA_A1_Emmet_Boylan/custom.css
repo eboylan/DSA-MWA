@@ -1,0 +1,76 @@
+/* set up font */
+@font-face {  
+    font-family: 'BTFont' ; src: url(BTLogo_old.ttf) format("truetype");
+}
+body{
+	text-align: center;
+}
+/* Style areas using font */
+h1, h2, h3, h4 {
+  font-family: 'BTFont', Fallback, sans-serif;
+  font-size: 0.8em;
+}
+#revealPanel{
+  font-family: 'BTFont', Fallback, sans-serif;
+  font-size: 0.8em; 
+}
+/* Some Sytling for pageOne Header and Footer */
+#p1HF{
+  background-color: silver;
+}
+.bodyClass{
+	margin: 5%;
+}
+/* CSS code to display and format images based on BattleTech universe factions */
+.ui-body-a{
+	background-image: url("images/marik.png");
+  	background-repeat: no-repeat;
+  	background-position: left center;
+  	background-size: auto;
+}
+.ui-body-b{
+	background-image: url("images/davion.png");
+  	background-repeat: no-repeat;
+  	background-position: left center;
+  	background-size: auto;
+}
+.ui-body-c{
+	background-image: url("images/Kurita.png");
+  	background-repeat: no-repeat;
+  	background-position: left center;
+  	background-size: auto;
+}
+.ui-body-d{
+	background-image: url("images/liao.png"); 
+  	background-repeat: no-repeat;
+  	background-position: left center;
+  	background-size: auto;
+}
+.ui-body-e{
+	background-image: url("images/stein.png"); 
+  	background-repeat: no-repeat;
+  	background-position: left center;
+  	background-size: auto;
+}
+.ui-body-f{
+	background-image: url("images/hasek.png");
+  	background-repeat: no-repeat;
+  	background-position: left center;
+  	background-size: auto;
+}
+.ui-body-g{
+	background-image: url("images/comstar.png"); 
+  	background-repeat: no-repeat;
+  	background-position: left center;
+}
+/* Styling for custom icon for menu options */
+.ui-icon-myicon:after {
+  background-image: url("images/planetIcon.png");
+}
+/* Simple footer positioning */
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}

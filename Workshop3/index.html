@@ -1,0 +1,98 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+	<title>My Page</title> 
+	<meta name="viewport" content="width=device-width, initial-scale=1"> 
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.1/jquery.mobile-1.2.1.min.css" />
+	<link rel="stylesheet" href="themes/Workshop1.min.css" />
+	<link rel="stylesheet" href="themes/jquery.mobile.icons.min.css" />
+	<script src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.2.1/jquery.mobile-1.2.1.min.js"></script>
+</head> 
+<body> 
+
+<div data-role="page" data-theme="b" id="pageone">
+
+	<div data-role="header" data-theme="b">
+		<h1>This is Page One</h1>
+	</div><!-- /header -->
+
+	<div data-role="content" data-theme="d">	
+		<div class="content-primary">
+			<div data-demo-html="true">
+				<ul id="myList">	
+					
+				</ul>
+			</div>
+		</div>
+			
+	</div><!-- /content -->
+
+	<div data-role="content">
+		<a href="#pagetwo">Go to Page 2</a>
+	</div>
+
+	<div data-role="footer" data-theme="c">	
+		<h1>Footer for page one</h1>		
+	</div><!-- /footer -->
+
+</div><!-- /page -->
+
+<div id="dynamicPages">
+	<!--put pages here-->
+</div>
+
+<div data-role="page" data-theme="b" id="pagetwo">
+
+	<div data-role="header" data-theme="c">
+		<h1>This is Page Two</h1>
+	</div><!-- /header -->
+
+	<div data-role="content" data-theme="d">	
+		<p>Hello world</p>
+		<a href="#pageone">Go to Page 1</a>			
+	</div><!-- /content -->
+
+	<div data-role="footer" data-theme="b">	
+		<h1>Footer for page two</h1>		
+	</div><!-- /footer -->
+
+</div><!-- /page -->
+
+<script type="text/javascript">
+	//check if working
+	console.log("starting...");
+
+	//standard jQuery ajax technique to load an XML file
+	var xml;
+	$(document).ready(function(){
+		$.ajax({
+			type: "GET",
+			url: "lolcats.xml",
+			dataType: "xml",
+			success: xmlParser
+		});
+	});
+
+	//load xml file and parse
+	//this function is the callback from line 69
+
+	function xmlParser(data){
+		xml = data;
+		var count = 0;
+
+		$(xml).find("kitteh").each(function() {
+			kitteh = $(this);
+			var name = $(kitteh).find("name").text();
+			var src = $(kitteh).find("url").text();
+			count++;
+
+			console.log(name);
+			$("#myList").append('<li><a href="#page'+count+'">' + name + '</a></li>');
+			$("#dynamicPages").append('<div id="page'+ count +'">Hello '+name+'</div>');
+		});
+	}
+</script>
+
+</body>
+</html>

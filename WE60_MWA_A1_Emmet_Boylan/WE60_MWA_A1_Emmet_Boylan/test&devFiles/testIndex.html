@@ -1,0 +1,128 @@
+<!--standard opening declarations-->
+<!DOCTYPE html> 
+<html>
+
+<!-- LIST
+	create dummy page, test in WAMP - done
+	add panel, test in WAMP - done, not working
+	create JSON file - done, simple version
+	create empty list, test in WAMP - done
+	read from JSON file - done
+	fill list, test in WAMP - done, data-filter-reveal not working(??)
+	create dynamic pages, append to body, test in WAMP - done
+	alphabetise and autodivide list, test in WAMP - done
+	style list, test in WAMP
+	style dynamic pages, test in WAMP
+	check and optimise code execution speed, if needed, test in WAMP - done (form as list append once)
+	check directory structure 
+	clean comments (make sure they reflect code changes)
+	change file names of final version before upload
+	  -->
+
+<!--header-->
+<head>
+	<title>WMA Assignment 1 jQuery Mobile</title>
+	<!-- links section -->
+	<meta name="viewport" content="width=device-width, initial-scale=1"> 
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.1/jquery.mobile-1.2.1.min.css" />
+	<link rel="stylesheet" href="themes/BTechFactions.min.css" />
+	<link rel="stylesheet" href="custom.css" />
+	<link rel="stylesheet" href="themes/jquery.mobile.icons.min.css" />
+	<script src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.2.1/jquery.mobile-1.2.1.min.js"></script>
+</head>
+
+<!--body-->
+<body>
+	<!-- generic page set-up for initial test-->
+	<div data-role="page">
+		<div data-role="header" data-theme="g">
+			<h1>This is a Header</h1>
+			<!--<input type="button" id="test" value="Sort List (click again to reverse)"/>-->
+		</div>
+
+		<div data-role="content" data-theme="g">	
+			<div class="content-primary">
+				
+				<ul data-role="listview" data-inset="true" data-filter="true" data-filter-placeholder="Search planets..." data-filter-reveal="true" data-autodividers="true" id="myList">
+					<!-- data-filter-reveal="true" will not work for me. No idea why -->
+						
+				</ul>
+			</div>
+				
+		</div><!-- /content -->
+
+		<div data-role="footer">
+			<a href="#revealPanel" class="ui-btn ui-btn-inline ui-corner-all ui-shadow">Reveal Panel</a>
+		</div>
+	</div>
+
+	<!-- generic panel -->
+	<div data-role="panel" id="revealPanel" data-display="reveal"> 
+    <h2>Reveal Panel</h2>
+    <p>You can close the panel by clicking outside the panel, pressing the Esc key, by swiping, or by clicking the button below:</p>
+    <a href="#pageone" data-rel="close" class="ui-btn ui-btn-inline ui-shadow ui-corner-all ui-btn-a ui-icon-delete ui-btn-icon-left">Close panel</a>
+  </div> 
+<!--footer -->
+<footer>
+
+</footer>
+
+</body>
+
+
+<!-- script to load data from json file -->
+<script type="text/javascript">
+	console.log("start read...");
+
+	$(document).ready(function() {
+	$.ajax({
+            url: "planets.json",
+            dataType: "json",
+            success: function(data) {
+            	// strings to store html, rather than call multiple appends
+            	var listItems = "";
+            	var dynamicPages = "";
+            	var name = "";
+            	var faction = "";
+            	var theme = "g";
+   	            for(var i=0;i<data.planets.length;i++){
+   	            	name = data.planets[i].name;
+   	            	faction = data.planets[i].faction;
+   	            	if(faction === "Free Worlds League") theme= "a";
+   	            	if(faction === "Federated Suns") theme= "b";
+   	            	if(faction === "Draconis Combine") theme= "c";
+   	            	if(faction === "Capellan Confederation") theme= "d";
+   	            	if(faction === "Lyran Commonwealth") theme= "e";
+   	            	if(faction === "New Syrtis") theme= "f";
+   	            	if(faction === "ComStar") theme= "g";
+   	            	if(faction === "Periphery") theme= "h";
+			       console.log(name);
+			       listItems += '<li><a href="#' + i + '" data-transition="fade">' + name + '</a></li>';
+			       dynamicPages +=
+			       		'<div data-role="page" data-theme="' + theme +'" id="'+ i +'">' +
+			       		'<div data-role="header" data-theme="' + theme +'">' + 
+						'<h1>' + name +'</h1>' +
+						'</div>' +
+						'<div data-role="content" data-theme="' + theme +'">' +
+						'<p> Planet: ' + name + '</p>' +
+						'<p> Faction: ' + faction + '</p>' +
+						'</div>' +
+						'<div data-role="footer" data-theme="' + theme +'">' +
+						'Add a back button here' +
+						'</div>' +
+						'</div>'
+					;
+			    } 
+			    // append strings to relevant sections once for lower overhead (fewer DOM manipulations) 
+			    $("#myList").append(listItems);
+			    $("#myList").listview("refresh");
+			    $("body").append(dynamicPages);
+            }
+        });
+	});
+
+	
+</script>
+
+</html>

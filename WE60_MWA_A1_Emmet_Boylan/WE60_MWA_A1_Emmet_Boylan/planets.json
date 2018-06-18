@@ -1,0 +1,1171 @@
+{ "planets" : [{
+ "name" : " Abruzzi              " ,
+"faction" : "New Syrtis",
+"X" : "150.74",
+"Y" : "-306.96"
+}
+,{
+ "name" : " Adelaide             " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-252.72",
+"Y" : "318.18"
+}
+,{
+ "name" : " Akfata               " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-385.2",
+"Y" : "177.87"
+}
+,{
+ "name" : " Alcor                " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-75.37",
+"Y" : "29.21"
+}
+,{
+ "name" : " Algorab              " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-115.01",
+"Y" : "15.13"
+}
+,{
+ "name" : " Almach               " ,
+"faction" : "New Syrtis",
+"X" : "101.71",
+"Y" : "-62.07"
+}
+,{
+ "name" : " Alshain              " ,
+"faction" : "Draconis Combine",
+"X" : "58.68",
+"Y" : "281.14"
+}
+,{
+ "name" : " Altorra              " ,
+"faction" : "Capellan Confederation",
+"X" : "-2.87",
+"Y" : "-265.76"
+}
+,{
+ "name" : " Anaheim              " ,
+"faction" : "New Syrtis",
+"X" : "302.01",
+"Y" : "-314.52"
+}
+,{
+ "name" : " Anguilla             " ,
+"faction" : "Federated Suns",
+"X" : "415.72",
+"Y" : "80.33"
+}
+,{
+ "name" : " Apolakkia            " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-117.36",
+"Y" : "343.47"
+}
+,{
+ "name" : " Arganda              " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-156.22",
+"Y" : "36.51"
+}
+,{
+ "name" : " As Samik             " ,
+"faction" : "Federated Suns",
+"X" : "349.99",
+"Y" : "-289.23"
+}
+,{
+ "name" : " Asta                 " ,
+"faction" : "Draconis Combine",
+"X" : "4.17",
+"Y" : "25.82"
+}
+,{
+ "name" : " Aucara               " ,
+"faction" : "New Syrtis",
+"X" : "178.13",
+"Y" : "-298.88"
+}
+,{
+ "name" : " Avior                " ,
+"faction" : "Free Worlds League",
+"X" : "-117.88",
+"Y" : "-164.56"
+}
+,{
+ "name" : " Baccalieu            " ,
+"faction" : "Periphery",
+"X" : "-490.83",
+"Y" : "126.23"
+}
+,{
+ "name" : " Bandora              " ,
+"faction" : "Capellan Confederation",
+"X" : "13.3",
+"Y" : "-178.91"
+}
+,{
+ "name" : " Basalt               " ,
+"faction" : "Federated Suns",
+"X" : "66.76",
+"Y" : "-29.21"
+}
+,{
+ "name" : " Bayindir             " ,
+"faction" : "Free Worlds League",
+"X" : "-244.89",
+"Y" : "-298.88"
+}
+,{
+ "name" : " Bellatrix            " ,
+"faction" : "Capellan Confederation",
+"X" : "54.77",
+"Y" : "-356.69"
+}
+,{
+ "name" : " Bernardo             " ,
+"faction" : "Free Worlds League",
+"X" : "-21.39",
+"Y" : "-94.93"
+}
+,{
+ "name" : " Biham                " ,
+"faction" : "Draconis Combine",
+"X" : "72.5",
+"Y" : "37.03"
+}
+,{
+ "name" : " Bjornlunda           " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-151.26",
+"Y" : "89.19"
+}
+,{
+ "name" : " Bobruisk             " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-339.3",
+"Y" : "15.39"
+}
+,{
+ "name" : " Borghese             " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-80.33",
+"Y" : "212.55"
+}
+,{
+ "name" : " Brihuega             " ,
+"faction" : "Draconis Combine",
+"X" : "358.08",
+"Y" : "394.59"
+}
+,{
+ "name" : " Bruben               " ,
+"faction" : "Draconis Combine",
+"X" : "-5.74",
+"Y" : "391.98"
+}
+,{
+ "name" : " Buenos Aires         " ,
+"faction" : "Capellan Confederation",
+"X" : "18.26",
+"Y" : "-345.04"
+}
+,{
+ "name" : " Caldrea              " ,
+"faction" : "Draconis Combine",
+"X" : "34.16",
+"Y" : "195.08"
+}
+,{
+ "name" : " Cameron              " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-174.48",
+"Y" : "168.74"
+}
+,{
+ "name" : " Capac                " ,
+"faction" : "Federated Suns",
+"X" : "312.96",
+"Y" : "-56.85"
+}
+,{
+ "name" : " Carmen               " ,
+"faction" : "Capellan Confederation",
+"X" : "28.69",
+"Y" : "-263.8"
+}
+,{
+ "name" : " Casere               " ,
+"faction" : "Draconis Combine",
+"X" : "78.5",
+"Y" : "346.86"
+}
+,{
+ "name" : " Chaffee              " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-96.24",
+"Y" : "83.2"
+}
+,{
+ "name" : " Chara                " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-29.47",
+"Y" : "6.52"
+}
+,{
+ "name" : " Chhaprauli           " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-349.21",
+"Y" : "221.42"
+}
+,{
+ "name" : " Chukchi III          " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-182.3",
+"Y" : "91.28"
+}
+,{
+ "name" : " Clermont             " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-211.77",
+"Y" : "355.73"
+}
+,{
+ "name" : " Colfax               " ,
+"faction" : "Free Worlds League",
+"X" : "-234.98",
+"Y" : "-49.55"
+}
+,{
+ "name" : " Conquista            " ,
+"faction" : "Free Worlds League",
+"X" : "-9.65",
+"Y" : "-309.83"
+}
+,{
+ "name" : " Corridan IV          " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-38.34",
+"Y" : "122.58"
+}
+,{
+ "name" : " Crevedia             " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-129.62",
+"Y" : "161.7"
+}
+,{
+ "name" : " Cumbres              " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-155.44",
+"Y" : "203.68"
+}
+,{
+ "name" : " Dalkeith             " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-26.34",
+"Y" : "156.74"
+}
+,{
+ "name" : " Darwendale           " ,
+"faction" : "Federated Suns",
+"X" : "314.52",
+"Y" : "-265.23"
+}
+,{
+ "name" : " Dehgolan             " ,
+"faction" : "Draconis Combine",
+"X" : "5.48",
+"Y" : "200.82"
+}
+,{
+ "name" : " Denbar               " ,
+"faction" : "Capellan Confederation",
+"X" : "69.63",
+"Y" : "-237.33"
+}
+,{
+ "name" : " Devil's Rock         " ,
+"faction" : "Free Worlds League",
+"X" : "-36.51",
+"Y" : "-15.39"
+}
+,{
+ "name" : " Dieudonne            " ,
+"faction" : "Free Worlds League",
+"X" : "-75.89",
+"Y" : "-26.08"
+}
+,{
+ "name" : " Dothan               " ,
+"faction" : "Federated Suns",
+"X" : "437.62",
+"Y" : "-135.36"
+}
+,{
+ "name" : " Duran                " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-265.49",
+"Y" : "146.05"
+}
+,{
+ "name" : " Earth                " ,
+"faction" : "ComStar",
+"X" : "0.0",
+"Y" : "0.0"
+}
+,{
+ "name" : " Edmondson            " ,
+"faction" : "Free Worlds League",
+"X" : "-341.65",
+"Y" : "-103.8"
+}
+,{
+ "name" : " Elektrougli          " ,
+"faction" : "Free Worlds League",
+"X" : "-114.23",
+"Y" : "-185.69"
+}
+,{
+ "name" : " Elume                " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-375.81",
+"Y" : "334.08"
+}
+,{
+ "name" : " Enzesfled            " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-383.9",
+"Y" : "130.14"
+}
+,{
+ "name" : " Esteros              " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-159.61",
+"Y" : "271.23"
+}
+,{
+ "name" : " Exeter               " ,
+"faction" : "Federated Suns",
+"X" : "190.12",
+"Y" : "-8.08"
+}
+,{
+ "name" : " Fatima               " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-31.56",
+"Y" : "177.34"
+}
+,{
+ "name" : " Fincastle            " ,
+"faction" : "Federated Suns",
+"X" : "326.0",
+"Y" : "-164.56"
+}
+,{
+ "name" : " Fomalhaut            " ,
+"faction" : "Federated Suns",
+"X" : "21.12",
+"Y" : "5.48"
+}
+,{
+ "name" : " Freisland            " ,
+"faction" : "Federated Suns",
+"X" : "237.07",
+"Y" : "-119.71"
+}
+,{
+ "name" : " Gacrux               " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-86.59",
+"Y" : "11.21"
+}
+,{
+ "name" : " Galuzzo              " ,
+"faction" : "Draconis Combine",
+"X" : "-15.65",
+"Y" : "253.24"
+}
+,{
+ "name" : " Gatineau             " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-244.63",
+"Y" : "299.66"
+}
+,{
+ "name" : " Gillingham           " ,
+"faction" : "Federated Suns",
+"X" : "505.17",
+"Y" : "-213.33"
+}
+,{
+ "name" : " Goetville            " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-263.67",
+"Y" : "266.28"
+}
+,{
+ "name" : " Graceland            " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-101.45",
+"Y" : "248.28"
+}
+,{
+ "name" : " Greenlaw             " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-229.5",
+"Y" : "160.91"
+}
+,{
+ "name" : " Gunthar              " ,
+"faction" : "Capellan Confederation",
+"X" : "39.64",
+"Y" : "-386.51"
+}
+,{
+ "name" : " Halesowen            " ,
+"faction" : "Draconis Combine",
+"X" : "36.77",
+"Y" : "254.02"
+}
+,{
+ "name" : " Hammer               " ,
+"faction" : "Free Worlds League",
+"X" : "-373.2",
+"Y" : "-143.96"
+}
+,{
+ "name" : " Harvest              " ,
+"faction" : "Draconis Combine",
+"X" : "-62.59",
+"Y" : "378.68"
+}
+,{
+ "name" : " Heiligendreuz        " ,
+"faction" : "Draconis Combine",
+"X" : "3.39",
+"Y" : "280.36"
+}
+,{
+ "name" : " Herzberg             " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-312.7",
+"Y" : "21.65"
+}
+,{
+ "name" : " Hobbs                " ,
+"faction" : "New Syrtis",
+"X" : "257.67",
+"Y" : "-246.2"
+}
+,{
+ "name" : " Homestead            " ,
+"faction" : "Capellan Confederation",
+"X" : "58.42",
+"Y" : "-286.1"
+}
+,{
+ "name" : " Howick               " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-346.86",
+"Y" : "318.7"
+}
+,{
+ "name" : " Huntington           " ,
+"faction" : "Free Worlds League",
+"X" : "-399.02",
+"Y" : "-188.3"
+}
+,{
+ "name" : " Icar                 " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-84.24",
+"Y" : "417.54"
+}
+,{
+ "name" : " Imbros III           " ,
+"faction" : "Draconis Combine",
+"X" : "-2.09",
+"Y" : "34.43"
+}
+,{
+ "name" : " Ingress              " ,
+"faction" : "Capellan Confederation",
+"X" : "50.07",
+"Y" : "-19.78"
+}
+,{
+ "name" : " Isesaki              " ,
+"faction" : "Draconis Combine",
+"X" : "279.58",
+"Y" : "195.6"
+}
+,{
+ "name" : " Jacson               " ,
+"faction" : "Capellan Confederation",
+"X" : "111.62",
+"Y" : "-349.47"
+}
+,{
+ "name" : " Jesup                " ,
+"faction" : "Federated Suns",
+"X" : "504.91",
+"Y" : "-122.58"
+}
+,{
+ "name" : " June                 " ,
+"faction" : "Federated Suns",
+"X" : "409.46",
+"Y" : "-266.54"
+}
+,{
+ "name" : " Kajikazawa           " ,
+"faction" : "Draconis Combine",
+"X" : "89.19",
+"Y" : "143.96"
+}
+,{
+ "name" : " Karachi              " ,
+"faction" : "Free Worlds League",
+"X" : "-294.96",
+"Y" : "-245.41"
+}
+,{
+ "name" : " Kaus Australis       " ,
+"faction" : "Draconis Combine",
+"X" : "5.74",
+"Y" : "84.24"
+}
+,{
+ "name" : " Keihoku              " ,
+"faction" : "Draconis Combine",
+"X" : "309.83",
+"Y" : "213.86"
+}
+,{
+ "name" : " Kessel               " ,
+"faction" : "Draconis Combine",
+"X" : "-13.3",
+"Y" : "84.24"
+}
+,{
+ "name" : " Kigamboni            " ,
+"faction" : "New Syrtis",
+"X" : "208.12",
+"Y" : "-250.63"
+}
+,{
+ "name" : " Kirkcaldy            " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-97.28",
+"Y" : "128.31"
+}
+,{
+ "name" : " Kluane               " ,
+"faction" : "New Syrtis",
+"X" : "197.95",
+"Y" : "-201.08"
+}
+,{
+ "name" : " Konstance            " ,
+"faction" : "Draconis Combine",
+"X" : "-20.34",
+"Y" : "97.28"
+}
+,{
+ "name" : " Kowloon              " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-295.23",
+"Y" : "370.34"
+}
+,{
+ "name" : " Kutludugun           " ,
+"faction" : "Free Worlds League",
+"X" : "-334.35",
+"Y" : "-192.21"
+}
+,{
+ "name" : " Labouchere           " ,
+"faction" : "Free Worlds League",
+"X" : "-255.58",
+"Y" : "-75.11"
+}
+,{
+ "name" : " Land's End           " ,
+"faction" : "Draconis Combine",
+"X" : "411.54",
+"Y" : "322.87"
+}
+,{
+ "name" : " Launam               " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-168.74",
+"Y" : "-12.52"
+}
+,{
+ "name" : " Leiston              " ,
+"faction" : "Draconis Combine",
+"X" : "176.04",
+"Y" : "236.81"
+}
+,{
+ "name" : " Leyland              " ,
+"faction" : "Draconis Combine",
+"X" : "311.4",
+"Y" : "396.42"
+}
+,{
+ "name" : " Listowel             " ,
+"faction" : "Federated Suns",
+"X" : "151.52",
+"Y" : "-68.07"
+}
+,{
+ "name" : " Lothair              " ,
+"faction" : "New Syrtis",
+"X" : "268.62",
+"Y" : "-340.08"
+}
+,{
+ "name" : " Lungdo               " ,
+"faction" : "Free Worlds League",
+"X" : "-83.46",
+"Y" : "-122.84"
+}
+,{
+ "name" : " Mackenzie            " ,
+"faction" : "Free Worlds League",
+"X" : "-278.01",
+"Y" : "-209.68"
+}
+,{
+ "name" : " Maisons              " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-349.21",
+"Y" : "4.43"
+}
+,{
+ "name" : " Mandate              " ,
+"faction" : "Capellan Confederation",
+"X" : "89.19",
+"Y" : "-127.27"
+}
+,{
+ "name" : " Marawi               " ,
+"faction" : "Draconis Combine",
+"X" : "62.85",
+"Y" : "267.32"
+}
+,{
+ "name" : " Markesan             " ,
+"faction" : "Federated Suns",
+"X" : "223.51",
+"Y" : "-75.37"
+}
+,{
+ "name" : " Matsuida             " ,
+"faction" : "Draconis Combine",
+"X" : "280.88",
+"Y" : "130.14"
+}
+,{
+ "name" : " McComb               " ,
+"faction" : "Federated Suns",
+"X" : "224.29",
+"Y" : "58.16"
+}
+,{
+ "name" : " Meilen               " ,
+"faction" : "Draconis Combine",
+"X" : "60.51",
+"Y" : "221.68"
+}
+,{
+ "name" : " Menkalinan           " ,
+"faction" : "Free Worlds League",
+"X" : "0.0",
+"Y" : "-71.2"
+}
+,{
+ "name" : " Mersa Matruh         " ,
+"faction" : "Draconis Combine",
+"X" : "132.49",
+"Y" : "170.56"
+}
+,{
+ "name" : " Millerton            " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-346.34",
+"Y" : "287.92"
+}
+,{
+ "name" : " Minnacora            " ,
+"faction" : "Capellan Confederation",
+"X" : "77.98",
+"Y" : "-172.13"
+}
+,{
+ "name" : " Mizar                " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-55.03",
+"Y" : "20.86"
+}
+,{
+ "name" : " Monroe               " ,
+"faction" : "Federated Suns",
+"X" : "406.85",
+"Y" : "-45.12"
+}
+,{
+ "name" : " Moritz               " ,
+"faction" : "Draconis Combine",
+"X" : "-32.6",
+"Y" : "322.35"
+}
+,{
+ "name" : " Muphrid              " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-27.64",
+"Y" : "15.39"
+}
+,{
+ "name" : " Nakaojo              " ,
+"faction" : "Draconis Combine",
+"X" : "289.75",
+"Y" : "184.91"
+}
+,{
+ "name" : " Nekkar               " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-94.41",
+"Y" : "97.28"
+}
+,{
+ "name" : " New Capetown         " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-254.28",
+"Y" : "263.15"
+}
+,{
+ "name" : " New Kyoto            " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-125.97",
+"Y" : "12.78"
+}
+,{
+ "name" : " New Syrtis           " ,
+"faction" : "New Syrtis",
+"X" : "233.16",
+"Y" : "-298.88"
+}
+,{
+ "name" : " Nihal                " ,
+"faction" : "Capellan Confederation",
+"X" : "44.34",
+"Y" : "-313.48"
+}
+,{
+ "name" : " Noatak               " ,
+"faction" : "Federated Suns",
+"X" : "333.82",
+"Y" : "-215.68"
+}
+,{
+ "name" : " Novara               " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-388.33",
+"Y" : "116.84"
+}
+,{
+ "name" : " Nykvarn              " ,
+"faction" : "Draconis Combine",
+"X" : "124.4",
+"Y" : "392.24"
+}
+,{
+ "name" : " Ogilvie              " ,
+"faction" : "New Syrtis",
+"X" : "197.69",
+"Y" : "-234.2"
+}
+,{
+ "name" : " Omagh                " ,
+"faction" : "Draconis Combine",
+"X" : "154.13",
+"Y" : "213.33"
+}
+,{
+ "name" : " Outer Volta          " ,
+"faction" : "Draconis Combine",
+"X" : "156.74",
+"Y" : "320.78"
+}
+,{
+ "name" : " Pandora              " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-85.54",
+"Y" : "236.81"
+}
+,{
+ "name" : " Pascagoula           " ,
+"faction" : "Federated Suns",
+"X" : "433.45",
+"Y" : "57.9"
+}
+,{
+ "name" : " Penobscot            " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-335.91",
+"Y" : "-46.16"
+}
+,{
+ "name" : " Philadelphia         " ,
+"faction" : "Draconis Combine",
+"X" : "193.25",
+"Y" : "210.73"
+}
+,{
+ "name" : " Piriapolis           " ,
+"faction" : "Free Worlds League",
+"X" : "-99.63",
+"Y" : "-361.47"
+}
+,{
+ "name" : " Polcenigo            " ,
+"faction" : "Draconis Combine",
+"X" : "110.06",
+"Y" : "378.16"
+}
+,{
+ "name" : " Poznan               " ,
+"faction" : "Capellan Confederation",
+"X" : "63.11",
+"Y" : "-82.89"
+}
+,{
+ "name" : " Promised Land        " ,
+"faction" : "Free Worlds League",
+"X" : "-306.96",
+"Y" : "-73.02"
+}
+,{
+ "name" : " Quemoy               " ,
+"faction" : "Capellan Confederation",
+"X" : "44.86",
+"Y" : "-152.83"
+}
+,{
+ "name" : " Radstadt             " ,
+"faction" : "Draconis Combine",
+"X" : "41.73",
+"Y" : "319.48"
+}
+,{
+ "name" : " Rasalas              " ,
+"faction" : "Free Worlds League",
+"X" : "-152.05",
+"Y" : "-94.67"
+}
+,{
+ "name" : " Reisterstown         " ,
+"faction" : "Federated Suns",
+"X" : "318.44",
+"Y" : "-150.48"
+}
+,{
+ "name" : " Richmond             " ,
+"faction" : "Draconis Combine",
+"X" : "131.96",
+"Y" : "459.53"
+}
+,{
+ "name" : " Rochelle             " ,
+"faction" : "Free Worlds League",
+"X" : "-114.75",
+"Y" : "-15.91"
+}
+,{
+ "name" : " Rosepine             " ,
+"faction" : "Federated Suns",
+"X" : "589.41",
+"Y" : "-22.95"
+}
+,{
+ "name" : " Ryde                 " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-45.64",
+"Y" : "93.63"
+}
+,{
+ "name" : " Safe Port            " ,
+"faction" : "New Syrtis",
+"X" : "135.62",
+"Y" : "-289.49"
+}
+,{
+ "name" : " Salford              " ,
+"faction" : "Draconis Combine",
+"X" : "342.43",
+"Y" : "406.85"
+}
+,{
+ "name" : " Sappir               " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-370.86",
+"Y" : "220.64"
+}
+,{
+ "name" : " Savannah             " ,
+"faction" : "Free Worlds League",
+"X" : "-80.33",
+"Y" : "-46.94"
+}
+,{
+ "name" : " Schiedam             " ,
+"faction" : "Free Worlds League",
+"X" : "-331.74",
+"Y" : "-146.57"
+}
+,{
+ "name" : " Sekulmun             " ,
+"faction" : "New Syrtis",
+"X" : "214.12",
+"Y" : "-222.2"
+}
+,{
+ "name" : " Shahr Kord           " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-435.28",
+"Y" : "-10.43"
+}
+,{
+ "name" : " Shenwan              " ,
+"faction" : "Free Worlds League",
+"X" : "-97.02",
+"Y" : "-223.77"
+}
+,{
+ "name" : " Shinonoi             " ,
+"faction" : "Draconis Combine",
+"X" : "80.59",
+"Y" : "54.51"
+}
+,{
+ "name" : " Siendou              " ,
+"faction" : "Free Worlds League",
+"X" : "-115.01",
+"Y" : "-294.18"
+}
+,{
+ "name" : " Sinope               " ,
+"faction" : "Draconis Combine",
+"X" : "385.98",
+"Y" : "197.16"
+}
+,{
+ "name" : " Skye                 " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-57.9",
+"Y" : "52.16"
+}
+,{
+ "name" : " Somerset             " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-160.91",
+"Y" : "429.54"
+}
+,{
+ "name" : " Spittal              " ,
+"faction" : "Draconis Combine",
+"X" : "59.72",
+"Y" : "347.65"
+}
+,{
+ "name" : " Star's End           " ,
+"faction" : "Periphery",
+"X" : "-83.98",
+"Y" : "436.06"
+}
+,{
+ "name" : " Storfors             " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-315.05",
+"Y" : "202.9"
+}
+,{
+ "name" : " Suianheer            " ,
+"faction" : "Draconis Combine",
+"X" : "423.28",
+"Y" : "248.8"
+}
+,{
+ "name" : " Sutama               " ,
+"faction" : "Draconis Combine",
+"X" : "91.54",
+"Y" : "124.92"
+}
+,{
+ "name" : " Symsonia             " ,
+"faction" : "Federated Suns",
+"X" : "491.09",
+"Y" : "-96.5"
+}
+,{
+ "name" : " Tamar                " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-15.65",
+"Y" : "317.92"
+}
+,{
+ "name" : " Tantara              " ,
+"faction" : "Capellan Confederation",
+"X" : "102.23",
+"Y" : "-255.06"
+}
+,{
+ "name" : " Tchamba              " ,
+"faction" : "Free Worlds League",
+"X" : "-303.57",
+"Y" : "-148.92"
+}
+,{
+ "name" : " Terra                " ,
+"faction" : "ComStar",
+"X" : "0.0",
+"Y" : "0.0"
+}
+,{
+ "name" : " Thessalonika         " ,
+"faction" : "Draconis Combine",
+"X" : "74.85",
+"Y" : "307.48"
+}
+,{
+ "name" : " Tiflis               " ,
+"faction" : "Draconis Combine",
+"X" : "357.3",
+"Y" : "197.43"
+}
+,{
+ "name" : " Tiskilwa             " ,
+"faction" : "Federated Suns",
+"X" : "215.68",
+"Y" : "-91.02"
+}
+,{
+ "name" : " Torrence             " ,
+"faction" : "Federated Suns",
+"X" : "292.1",
+"Y" : "-131.96"
+}
+,{
+ "name" : " Trondheim            " ,
+"faction" : "Draconis Combine",
+"X" : "73.28",
+"Y" : "408.93"
+}
+,{
+ "name" : " Tuamotu              " ,
+"faction" : "Free Worlds League",
+"X" : "-237.33",
+"Y" : "-187.25"
+}
+,{
+ "name" : " Ulan Batar           " ,
+"faction" : "New Syrtis",
+"X" : "126.23",
+"Y" : "-101.45"
+}
+,{
+ "name" : " Urich                " ,
+"faction" : "Federated Suns",
+"X" : "433.19",
+"Y" : "19.04"
+}
+,{
+ "name" : " Valmiera             " ,
+"faction" : "Draconis Combine",
+"X" : "190.64",
+"Y" : "133.27"
+}
+,{
+ "name" : " Velhas               " ,
+"faction" : "New Syrtis",
+"X" : "69.89",
+"Y" : "-281.14"
+}
+,{
+ "name" : " Viborg               " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-469.44",
+"Y" : "80.85"
+}
+,{
+ "name" : " Virentofta           " ,
+"faction" : "Draconis Combine",
+"X" : "200.82",
+"Y" : "403.72"
+}
+,{
+ "name" : " Waldheim             " ,
+"faction" : "Draconis Combine",
+"X" : "348.95",
+"Y" : "130.92"
+}
+,{
+ "name" : " Washburn             " ,
+"faction" : "Free Worlds League",
+"X" : "-156.74",
+"Y" : "-104.58"
+}
+,{
+ "name" : " Weippe               " ,
+"faction" : "New Syrtis",
+"X" : "320.26",
+"Y" : "-309.83"
+}
+,{
+ "name" : " Wilkes               " ,
+"faction" : "Free Worlds League",
+"X" : "-214.12",
+"Y" : "-275.93"
+}
+,{
+ "name" : " Wolcott              " ,
+"faction" : "Draconis Combine",
+"X" : "148.4",
+"Y" : "340.34"
+}
+,{
+ "name" : " Wyatt                " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-65.46",
+"Y" : "-9.39"
+}
+,{
+ "name" : " Yardley              " ,
+"faction" : "Draconis Combine",
+"X" : "167.96",
+"Y" : "211.77"
+}
+,{
+ "name" : " Zanderij             " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-179.69",
+"Y" : "267.84"
+}
+,{
+ "name" : " Ziliang              " ,
+"faction" : "New Syrtis",
+"X" : "69.11",
+"Y" : "-266.54"
+}
+,{
+ "name" : " Zwenkau              " ,
+"faction" : "Lyran Commonwealth",
+"X" : "-235.76",
+"Y" : "9.91"
+}]
+}

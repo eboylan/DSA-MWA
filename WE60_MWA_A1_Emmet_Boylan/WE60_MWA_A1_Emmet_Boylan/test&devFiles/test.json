@@ -1,0 +1,10 @@
+{ "planets" : [{
+	"name": " Abruzzi              ",
+	"faction": "New Syrtis"
+}, {
+	"name": " Adelaide             ",
+	"faction": "Lyran Commonwealth"
+}, {
+	"name": " Akfata               ",
+	"faction": "Lyran Commonwealth"
+}]}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LolCatz>
+<kitteh>
+	<id>1</id>
+	<name>Ceiling Cat</name>
+	<url>http://upload.wikimedia.org/wikipedia/en/9/90/Ceiling_cat_no_text.gif</url>
+</kitteh>
+
+<kitteh>
+	<id>2</id>
+	<name>Basement Cat</name>
+	<url>http://i191.photobucket.com/albums/z37/beamerpi/TeeSting_s_Stuff/basement-cat-eats-souls.jpg</url>
+</kitteh>
+
+
+<kitteh>
+	<id>3</id>
+	<name>Monorail Cat</name>
+	<url>http://i178.photobucket.com/albums/w263/Laudon1965/MonorailCat.jpg</url>
+</kitteh>
+
+<kitteh>
+	<id>4</id>
+	<name>Laser Kitteh</name>
+	<url>http://31.media.tumblr.com/II7NpYhKVobop9l1WLTAmnGMo1_500.jpg</url>
+</kitteh>
+</LolCatz>

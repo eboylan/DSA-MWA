@@ -1,0 +1,68 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+	<title>My Page</title> 
+	<meta name="viewport" content="width=device-width, initial-scale=1"> 
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.1/jquery.mobile-1.2.1.min.css" />
+	<link rel="stylesheet" href="themes/Workshop1.min.css" />
+	<link rel="stylesheet" href="themes/jquery.mobile.icons.min.css" />
+	<script src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.2.1/jquery.mobile-1.2.1.min.js"></script>
+</head> 
+<body> 
+
+<div data-role="page" data-theme="b" id="pageone">
+
+	<div data-role="header" data-theme="b">
+		<h1>This is Page One</h1>
+	</div><!-- /header -->
+
+	<div data-role="content" data-theme="d">	
+		<div class="content-primary">
+			<div data-demo-html="true">
+				<ul data-role="listview" data-filter="true" data-filter-reveal="true">
+					<li><a href="#luke" data-transition="fade">Luke</a></li>
+					<li><a href="#leia" data-transition="fade">Leia</a></li>
+					<li><a href="#han" data-transition="fade">Han</a></li>
+					<li><a href="#chewie" data-transition="fade">Chewie</a></li>
+					
+				</ul>
+			</div>
+		</div>
+			
+	</div><!-- /content -->
+
+	<div data-role="content">
+		<a href="#pagetwo">Go to Page 2</a>
+	</div>
+
+	<div data-role="footer" data-theme="c">	
+		<h1>Footer for page one</h1>		
+	</div><!-- /footer -->
+
+</div><!-- /page -->
+
+<div data-role="page" data-theme="b" id="pagetwo">
+
+	<div data-role="header" data-theme="c">
+		<h1>This is Page Two</h1>
+	</div><!-- /header -->
+
+	<div data-role="content" data-theme="d">	
+		<p>Hello world</p>
+		<a href="#pageone">Go to Page 1</a>			
+	</div><!-- /content -->
+
+	<div data-role="footer" data-theme="b">	
+		<h1>Footer for page two</h1>		
+	</div><!-- /footer -->
+
+</div><!-- /page -->
+
+<div data-role="page" id="luke">I'm here to rescue you</div>
+<div data-role="page" id="leia">Aren't you a little short for a stormtrooper?</div>
+<div data-role="page" id="han">Never tell me the odds</div>
+<div data-role="page" id="chewie">Yaag ruggah maw huah huah?</div>
+
+</body>
+</html>

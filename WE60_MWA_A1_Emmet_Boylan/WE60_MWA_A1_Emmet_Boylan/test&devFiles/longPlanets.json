@@ -1,0 +1,7765 @@
+{ "planets" : [{
+ "name" : " A Place              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Abadan               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Abagnar              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Abbadiyah            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Abbeville            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Abejorral            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Aberystwyth          " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Abiy Adi             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Abramkovo            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Abruzzi              " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Acala                " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Acamar               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Accrington           " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Achernar             " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Aconcagua            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Acrux                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Acubens              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Ad Duwayd            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Addicks              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Adelaide             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Adelson              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Adhafera             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Adhara               " ,
+"faction" : "Periphery"
+}
+,{
+ "name" : " Adrian               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Agematsu             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Agliana              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Aiguebelle           " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Aitutaki             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Aix-la-Chapelle      " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Akfata               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Al Hillah            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Al Jafr              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Al Jubaylah          " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Al Na'ir             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Alarion              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Albalii              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Albert Falls         " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Albiero              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Alchiba              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Alcor                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Alcyone              " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Aldebaran            " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Aldertaine           " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Alekseyevka          " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Alexandria           " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Algate               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Algedi               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Algenib              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Algol                " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Algorab              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Algot                " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Alhena               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Alioth               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Alkaid               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Alkalurops           " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Alkes                " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Alleghe              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Allerton             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Alma Alta            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Almach               " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Almunge              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Alnasi               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Alorton              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Alphard              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Alphecca             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Alpheratz            " ,
+"faction" : "Periphery"
+}
+,{
+ "name" : " Alrakis              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Alrescha             " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Alsek                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Alshain              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Alta Vista           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Altair               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Altais               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Altdorf              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Altenmarkt           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Alterf               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Althastan            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Altona               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Altoona              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Altorra              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Alula Australis      " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Alula Borealis       " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Alya                 " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Alyina               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Ambergrist           " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Amiga                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Amity                " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Amminadav            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " An Ting              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Anaheim              " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Ancha                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Andalusia            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Andarmax             " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Andro                " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Andurien             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Anegasaki            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Anembo               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Angell II            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Angol                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Anguilla             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Anjin Muerto         " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Ankaa                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Ankolika             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Annapolis            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Annunziata           " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Antares              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Antietam             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Antipolo             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Anywhere             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Apolakkia            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Apollo               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Apostica             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Apriki               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Arboris              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Arc-Royal            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Arcadia              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Arcturus             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Ardoz                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Ares                 " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Arganda              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Argyle               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Ariel                " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Aristotle            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Arkab                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Arlington            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Arluna               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Armaxa               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Armington            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Arnaudville          " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " As Samik             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Ascella              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Asellus Australis    " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Asellus Borealis     " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Asgard               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Ashburton            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Ashio                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Ashkum               " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Ashley               " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Aspropirgos          " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Asta                 " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Asuncion             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Athenry              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Atlas                " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Atocongo             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Atreus               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Atria                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Atsugi               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Atzenbrugg           " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Aubisson             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Aucara               " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Augusta              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Augustine            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Auldhouse            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Aur                  " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Australia            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Autumn Wind          " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Avawatz              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Avellaneda           " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Avigait              " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Avior                " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Avon                 " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Awano                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Axton                " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Ayacucho             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Aylmer               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Ayn Tarma            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Azha                 " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Babaeski             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Babuyan              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Baccalieu            " ,
+"faction" : "Periphery"
+}
+,{
+ "name" : " Bacum                " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Bad News             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Bainsville           " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Baker 3              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Baldur               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Ballalaba            " ,
+"faction" : "Periphery"
+}
+,{
+ "name" : " Ballynure            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Balsta               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Ban Na San           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Bandora              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Bangor               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Baranda              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Barcelona            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Barlaston            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Barlow's End         " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Barlow's Folly       " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Barras               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Barstow              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Baryshevo            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Basalt               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Basantapur           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Basiliano            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Bassfield            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Bastian              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Bastrop              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Batajnica            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Batavia              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Baxley               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Baxter               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Bayindir             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Beaumont             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Bedeque              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Beecher              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Beenleigh            " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Beid                 " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Belaire              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Bell                 " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Bella I              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Belladonna           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Bellatrix            " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Bellevue             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Benedict             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Benet III            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Benfled              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Benjamin             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Bensinger            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Bentley              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Berenson             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Bergman's Planet     " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Bernardo             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Bessarabia           " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Beta Mensae V        " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Beta VII             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Betelgeuse           " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Beten Kaitos         " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Bethel               " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Bettendorf           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Bharat               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Bicester             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Biham                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Biloela              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Binyang              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Biota                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Birmensdorf          " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Birqash              " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Bismarck             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Bithinia             " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Biuque               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Bjarred              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Bjornlunda           " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Black Earth          " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Blackjack            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Blair Atholl         " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Blandinsville        " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Blue Diamond         " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Blue Hole            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Bluford              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Blumenort            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Boardwalk            " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Bobruisk             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Bogard               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Bolan                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Bondurant            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Bone-Norman          " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Bonneau              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Boondock             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Bora                 " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Borden               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Bordon               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Borghese             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Botany Bay           " ,
+"faction" : "Periphery"
+}
+,{
+ "name" : " Bountiful Harvest    " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Bowang               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Brailsford           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Braunton             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Breed                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Bremond              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Breukelen            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Brighton             " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Brihuega             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Bristol              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Broaddus             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Brocchi's Cluster    " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Brockton             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Brockway             " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Broken Wheel         " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Bromhead             " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Brookeland           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Brooloo              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Bruben               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Brundage             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Brusett              " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Bryant               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Bryceland            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Buchlau              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Bucklands            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Buckminster          " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Budingen             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Buena                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Buenos Aires         " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Butler               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Butte Hold           " ,
+"faction" : "Periphery"
+}
+,{
+ "name" : " Butzfleth            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Byesville            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " C.M.O. 26            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Cadiz                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Cahokia              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Cajamarca            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Calafell             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Caldrea              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Caldwell             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Caledonia            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Callison             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Callisto V           " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Calloway VI          " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Calpaca              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Calseraigne          " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Cambiano             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Cameron              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Cameron              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Camlann              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Camlann              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Cammal               " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Campbelton           " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Campertown           " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Campoleone           " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Canal                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Canonbie             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Cap Rouge            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Capac                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Capella              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Caph                 " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Capolla              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Capra                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Capricorn III        " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Carbonis             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Caripare             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Carlisle             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Carmacks             " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Carmen               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Carmichael           " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Carnwath             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Carse                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Carsphairn           " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Carstairs            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Cartago              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Carver V             " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Cascade              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Caselton             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Casere               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Cassias              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Castor               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Castrovia            " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Cavalor              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Cavanaugh II         " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Cebalrai             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Cerberus             " ,
+"faction" : "Periphery"
+}
+,{
+ "name" : " Cerillos             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Cerulean             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Chaffee              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Chagos               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Chahar               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Chakachamna          " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Chalouba             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Champadanga          " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Chandler             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Chanute              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Chapineria           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Chapultepec          " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Chara                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Charity              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Charndo              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Chateau              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Chatham              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Chebanse             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Chenier              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Cheriton             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Chertan              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Chesterton           " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Chhaprauli           " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Chiavenna            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Chichibu             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Chilung              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Chinmen Tao          " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Chirala              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Chirikof             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Cholame              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Chorley              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Choudrant            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Chukchi III          " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Chupadero            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Ciampino             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Cimeron              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Ciotat               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Circinus             " ,
+"faction" : "Periphery"
+}
+,{
+ "name" : " Cirebon              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Claxton              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Claybrooke           " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Clearfield           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Clermont             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Clinton              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Clipperton           " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Clovis               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Cogdell              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Cohagen              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Cohay                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Colchester           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Coldbrook            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Cole Harbour         " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Colfax               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Colia                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Colinas              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Colmar               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Coloma               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Colorado             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Columbine            " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Conakry              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Concord              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Connaught            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Conquista            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Conroe               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Constance            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Cor Caroli           " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Corbeanca            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Cordiagr             " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Corella              " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Corey                " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Coriscana            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Corodiz              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Corridan IV          " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Corsica Nueva        " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Corydon              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Cosenza              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Cotocallao           " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Coudoux              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Courcellete          " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Courchevel           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Coventry             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Covington            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Crevedia             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Crimond              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Crofton              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Cronulla             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Cronulla             " ,
+"faction" : "Periphery"
+}
+,{
+ "name" : " Crossing             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Cruz Alta            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Csesztreg            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Csomad               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Cumberland           " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Cumbres              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Curaumilla           " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Cursa                " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Cusset               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Cylene               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Cyrenaica            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Czarvowo             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Dabih                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Dahar IV             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Dalcour              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Dalkeith             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Dalton               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Damevang             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Damian               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Danais               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Daneshmand           " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Daniels              " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Danxian              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Dar-es-Salaam        " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Darius               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Darwendale           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " David                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Davisville           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Dawn                 " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Dayr Khuna           " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " De Berry             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " DeWitt               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Decatur              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Decus                " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Defiance             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Dehgolan             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Deia                 " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Delacambre           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Delacruz             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Delavan              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Delitzsch            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Dell                 " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Delos IV             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Delphos              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Demeter              " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Denbar               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Deneb Algedi         " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Deneb Kaitos         " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Denebola             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Denebola             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Denizli              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Derf                 " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Des Arc              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Deschenes            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Deshler              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Devil's Rock         " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Devin                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Diamantina           " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Diass                " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Diboll               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Dickinson            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Dicon                " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Die Moot             " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Dieron               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Diefenbaker          " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Dieudonne            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Diosd                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Dixie                " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Dnepropetrovsk       " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Dobson               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Domain               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Dompaire             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Donegal              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Donenac              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Doneval II           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Dothan               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Dover                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Drienfontein         " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Dromini VI           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Drosendorf           " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Drozan               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Drusibacken          " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Dubhe                " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Dukambia             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Dumaring             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Duran                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Dustball             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Dyev                 " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Dyfed                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Eaglesham            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Eaton                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Ebensburg            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Ebro                 " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Echo                 " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Edasich              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Edmondson            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Edwards              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Egress               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Eguilles             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Eidsfoss             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Eilenburg            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " El Dorado            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " El Giza              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Elbar                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Electra              " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Elektrougli          " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Eleusis              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Elgin                " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Elidere IV           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Elissa               " ,
+"faction" : "Periphery"
+}
+,{
+ "name" : " Ellengurg            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Ellijay              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Ellsworth            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Elnath               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Eltanin              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Elume                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Emerson              " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Emporia              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Emris IV             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Enchi                " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Enders Cluster       " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Engadin              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Engadine             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Enif                 " ,
+"faction" : "Periphery"
+}
+,{
+ "name" : " Enkoping             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Enzesfled            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Eom                  " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Epsilon              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Epsilon Eridani      " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Epsilon Indi         " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Erewhon              " ,
+"faction" : "Periphery"
+}
+,{
+ "name" : " Eromanga             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Errai                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Escobas              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Espakeh              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Esteros              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Estuan               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Etiler               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Euclid               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Eustatius            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Eutin                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Evansville           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Evciler              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Ewanrigg             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Exedor               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Exeter               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Fadiffolu            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Fagerholm            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Fairfax              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Fairfield            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Faleolo              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Fallon II            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Falsterbo            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Farnsworth           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Farwell              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Fatima               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Fellanin II          " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Feltre               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Ferihegy             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Ferleiten            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Ferris               " ,
+"faction" : "Periphery"
+}
+,{
+ "name" : " Fetsund              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Fianna               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Fieferana            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Filtvet              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Fincastle            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Finsterwalde         " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Firenze              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Firgrove             " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Flannagan's Nebulea  " ,
+"faction" : "Taurian Concordat"
+}
+,{
+ "name" : " Fletcher             " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Fletcher             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Flintoft             " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Florida              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Flushing             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Fomalhaut            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Foochow              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Foot Fall            " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Ford                 " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Forkas               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Fort Loudon          " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Fortymile            " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Franklin             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Frazer               " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Freedom              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Freisland            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Frondas              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Fronde               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Fuentes              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Fujidera             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Fukuroi              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Furillo              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Furud                " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Futuna               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Fuveau               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Gacrux               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Galatea              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Galatia III          " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Galax                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Galedon V            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Galisteo             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Gallatin             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Gallery              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Gallitzin            " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Galtor III           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Galuzzo              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Gambarare            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Gambier              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Gan Singh            " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Gandy's Luck         " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Gannett              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Ganshoren            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Garrison             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Garstedt             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Gatchina             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Gatineau             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Gei-Fu               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Geifer               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Genoa                " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Ghaziabad            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Giausar              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Gibbs                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Gibraltar            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Gibson               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Gienah               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Gillingham           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Ginestra             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Gladius              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Glasgow              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Glengarry            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Glenmora             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Glentworth           " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Glevakha             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Goat Path            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Goderich             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Goetville            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Goito                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Golandrinas          " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Gomeisa              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Goodna               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Goshen               " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Goth Khakar          " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Gotterdammerung      " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Goubellat            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Gouderak             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Graceland            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Graham IV            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Gram                 " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Grand Base           " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Granera              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Graus                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Gravenhage           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Great Gorge          " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Great X              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Greeley              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Greenlaw             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Griffith             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Gronholt             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Grosvenor            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Groveld III          " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Grumium              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Grunwald             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Guangzho             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Guatavita            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Gulkana              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Gunthar              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Gunzburg             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Gurnet               " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Gurrnazovo           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Gypsum               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Haappajarvi          " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Hachiman             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Hadnall              " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Hagiwawa             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Hainfeld             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Halesowen            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Halfway              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Halifax              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Hall                 " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Halloran V           " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Halmyre Deans        " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Halstead Station     " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Hamal                " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Hamilton             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Hamilton             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Hammer               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Handa                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Hanover              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Harira               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Harloc               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Harmony              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Harpster             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Harrow's Sun         " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Harsefeld            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Hartshill            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Harvest              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Hassad               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Hassi'R'mel          " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Havdhem              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Haynesville          " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Hazeldean            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Hazelhurst           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Hean                 " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Hecheng              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Hednesford           " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Heiligendreuz        " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Helen                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Heligoland           " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Hellos Minor         " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Helm                 " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Helsingfors          " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Hephzibah            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Here                 " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Hermagor             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Herndon              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Herzberg             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Hesperus II          " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Hexare               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Hickok               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Highspire            " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Hillerod             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Hinckley             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Hindmarsh            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Hiratsuka            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Hivrannee            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Hobbs                " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Hobson               " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Hoff                 " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Hohenems             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Hollabrunn           " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Holloway             " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Holmsbu              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Holt                 " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Homam                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Home                 " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Homestead            " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Hongor               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Hongqiao             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Hood IV              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Hoonaar              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Horneburg            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Horsham              " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Hortense             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Hot Springs          " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Housekarle           " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Howick               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Howrah               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Hoyleton             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Hsien                " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Huaide               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Huan                 " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Hudeiba              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Humansville          " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Hun Ho               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Hunan                " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Huntington           " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Hurik                " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Huron                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Hustaing             " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Hyalite              " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Hyde                 " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Hyner                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Hyperion             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Ibarra               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Ibstock              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Icar                 " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Ideyld               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Idlewind             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Igualada             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Iijima               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Ikast                " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Iknogoro             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Ilzra                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Imalda               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Imbrial III          " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Imbros III           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Imbross III          " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Immenstadt           " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Inarcs               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Inchicore            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Incukalns            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Indicass             " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Ingenstrem           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Ingersoll            " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Ingonish             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Ingress              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Inman                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Inner End            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Ionus                " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Ipava                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Ipswich              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Irece                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Irian                " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Irurzun              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Isabela              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Isesaki              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Islamabad            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Islington            " ,
+"faction" : "Periphery"
+}
+,{
+ "name" : " Issaba               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Itabiana             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Ito                  " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Izar                 " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Jaboatao             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Jabuka               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Jacomarie            " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Jacson               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Jaipur               " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Jarett               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Jasmine              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Jatznik              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Jaumegarde           " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Jeanette             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Jerangle             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Jeronimo             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Jesenice             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Jesup                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Jezersko             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Jiddah               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Johnsondale          " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Jonathan             " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Jonzac               " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Jouques              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Juazeiro             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Jubka                " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Junction             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " June                 " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Junior               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Kabah                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kaesong              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kafr Silim           " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Kagoshima            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kaguyak              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Kaifeng              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Kaitangata           " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Kaiyuh               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Kajikazawa           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kakada               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Kalidasa             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Kamarod              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kamenz               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Kanata               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Kandersteg           " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Kandis               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kanowit              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kansu                " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Karachi              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Karakiraz            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Karbala              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Karkkila             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Karston              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kasdach              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Kashilla             " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Kathil               " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Katlehong            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Kaumberg             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Kaus Australis       " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kaus Borealis        " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kaus Media           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kawabe               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kawich               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Kazanka              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kaznejoy             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kearny               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Keeling              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Keid                 " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Keihoku              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kelang               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Kelenfold            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Kempten              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kendall              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Kennard              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Kentares IV          " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Kentwood             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Kervil               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kesai IV             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Kessel               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kestrel              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Kettering            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Keuterville          " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Keystone             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Keytesville          " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Khartoum             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Khon Kaen            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Kiamba               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kiesen               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kigamboni            " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Kikuyu               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Kilarney             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Kilbourne            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Killarney            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Kilmarnock           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kimball II           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kirbyville           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Kirchbach            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kirei Na Niwa        " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kirkcaldy            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Kirkenlaard          " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Kirklin              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Kiserian             " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Kitalpha             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kittery              " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Kitzingen            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Kiyev                " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Kladnitsa            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Klathandu IV         " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Kluane               " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Ko                   " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kobe                 " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Kochab               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Kockengen            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Kogl                 " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Kokpekty             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kolovraty            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Komephoros           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Koniz                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Konstance            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kookens Pleasure Pit " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Koping Chian         " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Korramabad           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kosciusko            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Kostinbrod           " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Kotzebue             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Koulen               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Koumi                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kountze              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Kowloon              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Krenice              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Krievci              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Krin                 " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Krung Thep           " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Kufstein             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kujari               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Kurhah               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kurragin             " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Kurvasa              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Kutludugun           " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Kuzuu                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Kvistgard            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Kwamashu             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Kwangchowwang        " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Kwangjong-ni         " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Kyeinnisan           " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Kyrkbacken           " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " La Blon              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " La Grave             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Labouchere           " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Labrea               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Lackhove             " ,
+"faction" : "Periphery"
+}
+,{
+ "name" : " Lackland             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Lahti                " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Laiaka               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Lambrecht            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Lamon                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Lancaster            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Lancaster            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Land's End           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Landfall             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Langhorne            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Lapida II            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Larned               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Larsha               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Last Chance          " ,
+"faction" : "Periphery"
+}
+,{
+ "name" : " Last Frontier        " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Latexo               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Latice               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Launam               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Laureles             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Laurent              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Laurieston           " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Layover              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Le Blanc             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Leamington           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Lee                  " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Leganes              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Leipsic              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Leiston              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Lengkong             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Leoben               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Lepaterique          " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Les Halles           " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Lesalles             " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Leskovik             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Lesnovo              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Lexington            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Leyda                " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Leyland              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Liao                 " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Liezen               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Lihue                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Lima                 " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Lindsay              " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Ling                 " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Linneus              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Linqing              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Lipton               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Listowel             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Ljugarn              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Loburg               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Loeches              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Logandale            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Lonaconing           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Loongana             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Lopez                " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Loric                " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Lost                 " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Lothair              " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Lothan               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Lovinac              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Loxley               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Loyalty              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Loysville            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Lucerne              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Lucianca             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Ludwig               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Ludwigshafen         " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Lungdo               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Lurgatan             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Luthien              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Luzerne              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Lyceum               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Lyndon               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Lyons                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Ma'anshan            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Machida              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Macintosh            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Mackenzie            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Macksburg            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Macomb               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Maderas              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Madiun               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Madras               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Maestu               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Mahone               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Maia                 " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Main Street          " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Maisons              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Maladar              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Malagrotta           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Maldonado            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Malibu               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Mallory's World      " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Manapire             " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Manassas             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Mandaoaaru           " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Mandaree             " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Mandate              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Manihiki             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Mankova              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Mannedorf            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Manotick             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Mansfield            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Mansu-ri             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Manteno              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Mara                 " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Mararn               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Marawi               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Marcus               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Marduk               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Marfik               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Marfik               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Mariefred            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Marielund            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Marik                " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Maritgues            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Markab               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Markesan             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Marlette             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Marlowe's Rift       " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Marodzi              " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Marshdale            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Masterson            " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Matamoras            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Matar                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Matheran             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Matsu                " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Matsuida             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Mauckport            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Maule                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Mauripur             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Maxie's Planet       " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Maxwell              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Mayetta              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Maynard              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " McAffe               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " McAlister            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " McComb               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " McGehee              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " McHenry              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " McKenna              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " McRae                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Meacham              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Meadowvale           " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Medellin             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Medzev               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Megrez               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Meilen               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Meinacos             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Meinrad              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Mejicanos            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Melcher              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Melissia             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Memmingen            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Memphis              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Mendham              " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Menkalinan           " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Menkalinan           " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Menke                " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Menkent              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Menker               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Menkib               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Mentasta             " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Merak                " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Mercedes             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Mermentau            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Merope               " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Mersa Matruh         " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Merton               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Mesa Verde           " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Mesartim             " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Metter               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Mezzana              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Miaplacidus          " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Midale               " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Midkiff              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Midway               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Millerton            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Milligan             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Millray              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Millungera           " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Milnerton            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Milos                " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Milton               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Minakuchi            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Minderoo             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Minette              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Minnacora            " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Minowa               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Miquelon             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Mira                 " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Mirach               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Mirage               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Misery               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Mississauga          " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Mitchel              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Miyada               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Mizar                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Mizunami             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Mkuranga             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Mogyorod             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Mokane               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Molino               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Molokai              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Monhegan             " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Monistrol            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Monongahela          " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Monroe               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Montcoal             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Montmarault          " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Montour              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Monywa               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Moore                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Moravian             " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Mordialloc           " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Morges               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Moriguchi            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Moritz               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Morningside          " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Morrill              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Morven               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Mosiro               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Moultrie             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Mozirje              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Mualang              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Multan               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Mundrabilla          " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Muphrid              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Murchison            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Muridox              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Muscida              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Muskegon             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Nadrin               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Nagel                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Nahoni               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Najha                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Naka Pabni           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Nakaojo              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Nanking              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Narellan             " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Nashira              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Nashuar              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Nathan               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Necedah              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Necromo              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Neerabup             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Negushevo            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Nekkar               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Neosho               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Nestor               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Neukirchen           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " New Aberdeen         " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " New Aragon           " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " New Avalon           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " New Bergen           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " New Caledonia        " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " New Canton           " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " New Capetown         " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " New Damascus         " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " New Delos            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " New Earth            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " New Exford           " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " New Hessen           " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " New Home             " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " New Hope             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " New India            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " New Ivaarsen         " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " New Kyoto            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " New Macao            " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " New Mendham          " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " New Olympia          " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " New Oslo             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " New Procyon          " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " New Rhodes III       " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " New Roland           " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " New Sagan            " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " New Samarkand        " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " New Syrtis           " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " New Valencia         " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " New Vandenburg       " ,
+"faction" : "Taurian Concordat"
+}
+,{
+ "name" : " New Wessex           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " New Westin           " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Newcastle            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Newton               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Newtown Square       " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Ngake                " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Niangol              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Nihal                " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Niihau               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Niles                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Ningpo               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Ningxia              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Niomede              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Niquinohomo          " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Nirasaki             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Nizina               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " No Return            " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Noatak               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Nockatunga           " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Noisiel              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Nopah                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Norfolk              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Northfield           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Northwind            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Notwina              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Nouasseur            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Nova Roma            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Novara               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Novaya Zemlya        " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Nowhere              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Nox                  " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Nullarbor            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Numenor              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Numki                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Nuneaton             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Nunivak              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Nusakan              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Nykvarn              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " O'Fallon             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Oberon VI            " ,
+"faction" : "Periphery"
+}
+,{
+ "name" : " Obrenovac            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Oceana               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Odabasi              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Odell                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Odessa               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Offerman             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Ogano                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Ogilvie              " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Ohrensen             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Okains               " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Okefenokee           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Olafsvik             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Olancha              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Old Kentucky         " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Olindo               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Oliver               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Oltepesi             " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Omagh                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Orbisonia            " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Orestes              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Oriente              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Orkney               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Ormstown             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Oshika               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Osmus Saar           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Otho                 " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Ottumwa              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Outer Volta          " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Outpost              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Outreach             " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Ovan                 " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Overton              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Ozawa                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Pajarito             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Palladaine           " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Palmyra              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Palos                " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Pandora              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Pangkalan            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Panjang              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Panpour              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Paracale             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Paradise             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Parakoila            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Paris                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Park Place           " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Parma                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Pascagoula           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Pasig                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Pattison             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Pattonsbrug          " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Paulding             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Payvand              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Peabody              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Peacock              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Pella II             " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Pencader             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Penobscot            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Perdido              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Perkasie             " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Persistence          " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Pesht                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Petrolia             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Phact                " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Phalan               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Phecda               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Pherkad              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Philadelphia         " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Piedmont             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Pierce               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Pike IV              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Pilkhua              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Pilpala              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Pinard               " ,
+"faction" : "Taurian Concordat"
+}
+,{
+ "name" : " Pingree              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Pinnacle             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Pirates Haven (clst) " ,
+"faction" : "Periphery"
+}
+,{
+ "name" : " Piriapolis           " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Pitkin               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Planting             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Pleiades Cluster     " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Pleione              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Plymouth             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Pobeda               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Pocologan            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Point Barrow         " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Pojos                " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Polcenigo            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Pollux               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Pomme De Terre       " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Pondicherry          " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Porrima              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Port Arthur          " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Port Moseby          " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Porthos              " ,
+"faction" : "Periphery"
+}
+,{
+ "name" : " Potwin               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Poulsbo              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Poznan               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Prato                " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Predlitz             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Premana              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Preston              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Preston              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Primus               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Principia            " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Princton             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Prix                 " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Promised Land        " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Propus               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Proserpina           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Protection           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Purvo                " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Pusht-i-rud          " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Qanatir              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Qandahar             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Qarahta              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Quarell              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Quemoy               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Quentin              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Quilino              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Quimberton           " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Quincy               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Quittacas            " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Qurayyat             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Raballa              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Radlje               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Radostov             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Radstadt             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Rahne                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Rajkot               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Raman                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Ramgarh              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Ramona               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Ramsau               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Randar               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Raphael              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Rapla                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Rasalas              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Rasalgethi           " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Rasalhague           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Rastaban             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Recife               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Redfield             " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Redondo              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Reese Station        " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Regulus              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Reisling's Planet    " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Reisterstown         " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Relevow              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Remagen              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Remshield            " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Remulac              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Renown               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Rentz                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Repulse              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Revivim              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Rexburg              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Richmond             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Richvale             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Ridderkerk           " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Ridgebrook           " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Rigil Kentarus       " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Rijeka               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Rio                  " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Roadside             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Robinson             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Robsart              " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Rochelle             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Rochester            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Rockland             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Rodigo               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Rohinjan             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Rollis               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Romita               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Romulus              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Ronel                " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Rosamond             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Rosepine             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Rosice               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Rosiclare            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Rowe                 " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Royal                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Royalston            " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Rubigen              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Ruchbah              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Rukbat               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Ruschegg             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Ryde                 " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Ryerson              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Rzhishchev           " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Saaremaa             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Sabanillas           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Sabik                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Sackville            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Sadachbia            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Sadalbari            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Sadurni              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Safe Port            " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Saffel               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Saginaw              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Saiph                " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Sakai                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Sakhalin             " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Sakhalin             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Sakhara V            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Sakuranoki           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Salem                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Salford              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Saltillo             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Salur                " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " San Nicolas          " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Sanda                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Sanilac              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Santana              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Santander V          " ,
+"faction" : "Periphery"
+}
+,{
+ "name" : " Saonara              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Sapienza             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Sappir               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Saravan              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Sargasso             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Sarikavak            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Sarmaxa              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Sarna                " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Sarpsborg            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Satalice             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Sauk City            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Saunemin             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Savannah             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Savinsville          " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Savonburg            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Sawyer               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Sax                  " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Scarborough          " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Scheat               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Schedar              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Schererville         " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Scheuerheck          " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Schiedam             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Schirmeck            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Schuyler             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Schwartz             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Scituate             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Scudder              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Second Chance        " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Second Try           " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Seginus              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Seiduts              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Sekulmun             " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Semenyih             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Semichi              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Sendalor             " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Senftenberg          " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Senorbi              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Sertar               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Setubal              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Sevon                " ,
+"faction" : "Periphery"
+}
+,{
+ "name" : " Sevren               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Shahr Kord           " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Sharqah              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Shasta               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Shaul Khala          " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Shaula               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Shaula               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Shaunavon            " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Shawnee              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Sheliak              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Shensi               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Shenwan              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Sheratan             " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Sheridan             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Sherwood             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Shiba                " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Shibukawa            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Shiloh               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Shimonita            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Shimonoseki          " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Shimosuwa            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Shinonoi             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Shionoha             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Shipka               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Shiro III            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Shirotori            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Shitara              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Shoreham             " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Shubuta              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Shuen Wan            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Sian                 " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Siendou              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Sierpc               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Sierra               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Sighisoara           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Sigma Mare           " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Sigurd               " ,
+"faction" : "Periphery"
+}
+,{
+ "name" : " Silkeborg            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Silver               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Simferopol           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Simpson Desert       " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Sinope               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Sirdar               " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Sirius               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Skallevoll           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Skandia              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Skat                 " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Skepptana            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Skokie               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Skondia              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Skvorec              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Skye                 " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Slaithwaite          " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Slocum               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Small World          " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Smolensk             " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Smolnik              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Sodertalje           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Sodus                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Soilihull            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Solaris              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Somerset             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Son Hoa              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Songgang             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Sonnia               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Sophie's World       " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Sorunda              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Soul                 " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Soverzene            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Sparrevohn           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Spica                " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Spittal              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " St. Andre            " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " St. Ives             " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " St. John             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " St. Loris            " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " St. Robert           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Stanley              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Stantsiya            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Stanzach             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Stapelfeld           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Star's End           " ,
+"faction" : "Periphery"
+}
+,{
+ "name" : " Steeles              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Steelton             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Stein's Folly        " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Steinhatchee         " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Sterling             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Sterlington          " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Sternwerde           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Sterope              " ,
+"faction" : "Taurian Concordat"
+}
+,{
+ "name" : " Stewart              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Storfors             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Stotzing             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Strandfontein        " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Stratford            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Strawn               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Streator             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Sturgis              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Styk                 " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Styx                 " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Sudeten              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Suianheer            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Suk II               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Sulafat              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Sullivan             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Summer               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Summit               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Sun Prairie          " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Surcin               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Susquehanna          " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Susulatna            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Sutama               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Suzano               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Svarstaad            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Svelvik              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Sverdlovsk           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Svinngarn            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Swartklip            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Sylvan               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Sylvester            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Symington            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Symsonia             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Syrma                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Tabayama             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Taga                 " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Tainjin              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Talcott              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Talitha              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Tall Trees           " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Tallin               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Tallmadge            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Tamar                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Tamarind             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Tamsalu              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Tancredi IV          " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Tangipahoa           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Tangua               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Tanh Linh            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Tania Australis      " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Tania Borealis       " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Tannil               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Tantara              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Tapachula            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Tapihue              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Tarazed              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Tarkio               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Tarnby               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Tatlawiksuk          " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Tatsuno              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Tawas                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Taygeta              " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Tchamba              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Tecumseh             " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Tegaldanas           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Teliman's Mistake    " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Tellman IV           " ,
+"faction" : "Periphery"
+}
+,{
+ "name" : " Telos IV             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Tematagi             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Teng                 " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Teniente             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Tentativa            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Terra                " ,
+"faction" : "ComStar"
+}
+,{
+ "name" : " Terra Firma          " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Tetersen             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Texlos               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Teyvareb             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Thannhausen          " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Tharkad              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " The Edge             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " The Rock             " ,
+"faction" : "Periphery"
+}
+,{
+ "name" : " Thermopolis          " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Thessalonika         " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Thestria             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Thibodaux            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Thimphu              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Thorin               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Thuban               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Thule                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Thun                 " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Thurrock             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Tiber                " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Tiflis               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Tigress              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Tikonov              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Timbiqui             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Timbuktu             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Timehri              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Timkovichi           " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Tinaca               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Tiruppur             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Tishomingo           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Tiskilwa             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Toffen               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Togura               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Togwotee             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Tohelet              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Tok Do               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Toland               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Tomans               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Tongatapu            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Tormentine           " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Torrence             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Towne                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Trell I              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Trellisane           " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Trent                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Trentham             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Triesting            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Trinidad             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Tripoli              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Trolloc Prime        " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Trondheim            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Truth                " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Trznadel Cluster     " ,
+"faction" : "Periphery"
+}
+,{
+ "name" : " Tsamma               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Tsarahavana          " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Tsinan               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Tsinghai             " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Tsingtao             " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Tsitsang             " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Tsukude              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Tuamotu              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Tukayyid             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Turin                " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Turinge              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Turtle Bay           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Twycross             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Tybalt               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Udibi                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Ueda                 " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Uhuru                " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Ulan Batar           " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Ulan Bator           " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Ulysses              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Umijiri              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Umka                 " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Unity                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Unukalhai            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Unzmarkt             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Upano                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Uravan               " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Urich                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Urjala               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Utrecht              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Uzhgorod             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Vackisujfalu         " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Vakarel              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Valentina            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Valexa               " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Valilyevskiy         " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Valloire             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Valmiera             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Van Diemen IV        " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Vandalia             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Vanern               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Vanra                " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Vantaa               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Vard                 " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Vaucluse             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Veckholm             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Vega                 " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Velhas               " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Venaria              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Vendrell             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Ventabren            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Verde                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Verdigreis           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Verlo                " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Vermezzo             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Verthandi            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Vestallas            " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Viborg               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Vibrunum             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Vicente              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Victoria             " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Victoria             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Vihtijarvi           " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Vikindu              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Villanueva           " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Vindemiatrix         " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Vipaava              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Virentofta           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Virtue               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Volders              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Vorarlberg           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Vorzel               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Vosloorus            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Vulcan               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Waddesdon            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Waimalu              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Waipahu              " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Waldheim             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Waldorff             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Wallacia             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Wallis               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Wapakoneta           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Wappingers           " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Ward                 " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Warlock              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Warren               " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Wasat                " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Washburn             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Watermael            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Waunakee             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Waxell               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Wazan                " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Weatogue             " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Wedgefield           " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Weekapaug            " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Wei                  " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Weingarten           " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Weippe               " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Weisau               " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Weldon               " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Wernke               " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Westerhand           " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Westerstede          " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Westover             " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Wetumpka             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Wheel                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Whittington          " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Wilkes               " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Willowick            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Willunga             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Wiltshire            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Windsor              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Winfield             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Winfield             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Wing                 " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Winter               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Wisconsin            " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Wolcott              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Wolof                " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Woodbine             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Woodstock            " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Worrell              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Wotan                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Wrentham             " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Wright               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Wroclaw              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Wroxeter             " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Wyatt                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Xanthe III           " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Xenia                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Xhosa VII            " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Xieng Khouang        " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Xinyang              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Yamarovka            " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Yance I              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Yanchep              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Yangtze              " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Yardley              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Yed Posterior        " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Yed Prior            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Yeguas               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Yorii                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " York                 " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Yumesta              " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Yunnah               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Yuris                " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Zalaf                " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Zanderij             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Zaniah               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Zanzibar             " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Zaprudy              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Zaurak               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Zavijava             " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Zdice                " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Zebebelgenubi        " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Zebeneschamali       " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Zhongshan            " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Ziliang              " ,
+"faction" : "New Syrtis"
+}
+,{
+ "name" : " Zion                 " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Zlatousi             " ,
+"faction" : "Draconis Combine"
+}
+,{
+ "name" : " Zoetermeer           " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Zolfo                " ,
+"faction" : "Federated Suns"
+}
+,{
+ "name" : " Zollikofen           " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Zortman              " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Zosma                " ,
+"faction" : "Free Worlds League"
+}
+,{
+ "name" : " Zurich               " ,
+"faction" : "Capellan Confederation"
+}
+,{
+ "name" : " Zvolen               " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Zwenkau              " ,
+"faction" : "Lyran Commonwealth"
+}
+,{
+ "name" : " Zwipadze             " ,
+"faction" : "Lyran Commonwealth"
+}
+]}

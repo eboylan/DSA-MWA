@@ -1,0 +1,126 @@
+<!--standard opening declarations-->
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+<link rel="stylesheet" href="themes/BTechFactions.min.css">
+<link rel="stylesheet" href="custom.css">
+
+</head>
+
+<body>
+
+
+<div data-role="page" id="pageone" data-theme="g">
+  <!-- Panel code structure based on the Panel example on W3Schools -->
+  <div data-role="panel" id="revealPanel" data-display="reveal"> 
+    <h2>BattleTech Planet Finder</h2>
+    <p>BattleTech is a fictional sci-fi universe. It serves as the background setting for Boardgames, Wargames, Video Games, RPGs, Novels and at one stage a Cartoon. It has been under constant development since 1984, and unlike many similar settings advances and changes creative a detailed and dynamic future history up to the year 3139.</p>
+    <p>This site lets a user search through a random sample of the settings planets. Clicking on a selection details which faction owns it in the year 3025 (for use in a game set in that year), it's distance from the Earth and a link to the BattleTech Wiki for that planet. The pages are styled with the colours and Crest of the relevant in game faction. The footer includes a back button to the search screen. </p>
+    <p>You can close the panel by clicking outside the panel, pressing the Esc key, by swiping, or by clicking the button below:</p>
+    <a href="#pageone" data-rel="close" class="ui-btn ui-btn-inline ui-shadow ui-corner-all ui-btn-a ui-icon-delete ui-btn-icon-left">Close panel</a>
+  </div> 
+
+  <!-- header for search page -->
+  <div data-role="header" id="p1HF">
+    <h1>BattleTech Planet Finder</h1>
+  </div>
+
+  <!-- content for search page -->
+  <div data-role="content" class="bodyClass">
+    <div class="content-primary">
+        <!-- listview setup -->
+        <ul data-role="listview" data-inset="true" data-filter="true" data-filter-placeholder="Search planets..." data-filter-reveal="true" data-autodividers="true" id="myList">
+           <!--this list is filled dynamically --> 
+        </ul>
+      </div>
+  </div>
+
+  <!-- search page footer. includes button for side panel -->
+  <div data-role="footer" id="p1HF">
+    <p>Need Help? Click on the button to open the Panel.</p>
+     <a href="#revealPanel" class="ui-btn ui-btn-inline ui-corner-all ui-shadow">Reveal Panel</a>
+  </div> 
+</div> 
+
+<!-- Load scripts near bottom of file, but before scripts relying on them -->
+<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+</body>
+
+<!-- script to load data from json file -->
+<script type="text/javascript">
+  //console.log("start read..."); //console output, used in testing
+
+  // Standard log form of the JSON ajax call
+  $(document).ready(function() {
+  $.ajax({
+            url: "planets.json",
+            dataType: "json",
+            success: function(data) {
+              // strings to store html, rather than call multiple appends
+              var listItems = "";
+              var dynamicPages = "";
+              var name = "";
+              var faction = "";
+              var theme = "g";
+              // For each planet object in the JSON file, store the data values we need to construct dynamic pages
+                for(var i=0;i<data.planets.length;i++){
+                  name = data.planets[i].name;
+                  faction = data.planets[i].faction;
+                  X = data.planets[i].X;
+                  Y = data.planets[i].Y;
+                  // Theme to match faction colours
+                  if(faction === "Free Worlds League") {
+                    theme= "a";
+                  } else if(faction === "Federated Suns") {
+                    theme= "b";
+                  } else if(faction === "Draconis Combine") {
+                    theme= "c";
+                  } else if(faction === "Capellan Confederation") {
+                    theme= "d";
+                  } else if(faction === "Lyran Commonwealth") {
+                    theme= "e";
+                  } else if(faction === "New Syrtis") {
+                    theme= "f";
+                  } else if(faction === "ComStar") {
+                    theme= "g";
+                  } else {
+                    theme= "h";
+                  }
+             //console.log(name); //console output, used for testing
+             //create list item for this JSON object. Uses custom icon.
+             listItems += '<li><a href="#' + i + '" class="ui-icon-myicon" data-transition="flip">' + name + '</a></li>';
+             /*Create dynamic page for this JSON object, matched to list items above
+                page includes header, content body and footer. */
+             dynamicPages +=
+                '<div data-role="page" data-theme="' + theme +'" id="'+ i +'">' +
+                '<div data-role="header" data-theme="' + theme +'">' + 
+                '<h1>' + name +'</h1>' +
+                '</div>' +
+                '<div class="bodyClass" data-role="content" data-theme="' + theme +'">' +
+                '<h4> Planet: ' + name + '</h4>' +
+                '<h4> Faction: ' + faction + '</h4>' +
+                '<p>Position Relative to Earth</p>' +
+                '<h4> X Position: ' + X + ' Light Years : Y Position: ' + Y + ' Light Years</h4>' +
+                '<p>Distance from Earth</p>' +
+                Math.round(Math.sqrt(X*X + Y*Y)) + ' Light Years' +
+                '<p> More Information:  <a href="http://www.sarna.net/wiki/' + name + '" target="_blank">Follow Link</a></p>' +
+                '</div>' +
+                '<div data-role="footer" data-theme="' + theme +'">' +
+                '<a data-rel="back" class="ui-btn ui-btn-inline ui-corner-all ui-shadow">Back to Search</a>' +
+                '</div>' +
+                '</div>';
+          } 
+          // append strings to relevant sections once for lower overhead (fewer DOM manipulations) 
+          $("#myList").append(listItems);
+          $("#myList").listview("refresh");
+          $("body").append(dynamicPages);
+            }
+        });
+  });
+
+  
+</script>
+</html>
